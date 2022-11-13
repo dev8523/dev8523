@@ -1,8 +1,9 @@
 ### Hi there 👋
-
+<!--
 **dev8523/dev8523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on problem solving skills.
 - 🌱 I’m currently learning DSA, System Design, Java, SpringBoot, React.js
