@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Java, SpringBoot, Microservices, React.js
 - 💬 Ask me about Java, Rest API, SpringBoot, Microservices, React.js, Git
 - 📫 How to reach me: 
-- 📧 debasishsahoo8523@gmail.com
-- ![image](https://user-images.githubusercontent.com/36338136/201519928-46f5adfc-736b-4425-a637-f15e11e26d85.png) https://debasishsahoo.netlify.app/
+- 📧 Email: debasishsahoo8523@gmail.com
+- My Portfolio web: https://debasishsahoo.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/debasish-sahoo-87515a148/
 - Mobile: (+91) 7008295465
 - ⚡ Fun fact: `It's all 0's and 1's`
