@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **dev8523/dev8523** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: debasishsahoo8523@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: It's all 0's and 1's.
--->
