@@ -11,5 +11,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Java, SpringBoot, Microservices, React.js
 - 💬 Ask me about Java, Rest API, SpringBoot, Microservices, React.js, Git
 - 📫 How to reach me: debasishsahoo8523@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: It's all 0's and 1's.
+- ⚡ Fun fact: `It's all 0's and 1's`
