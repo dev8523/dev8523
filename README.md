@@ -10,9 +10,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate mostly on full stack dev projects(open source)
 - 🤔 I’m looking for help with Java, SpringBoot, Microservices, React.js
 - 💬 Ask me about Java, Rest API, SpringBoot, Microservices, React.js, Git
-- 📫 How to reach me: 
-- 📧 Email: debasishsahoo8523@gmail.com
-- My Portfolio web: https://debasishsahoo.netlify.app/
-- LinkedIn: https://www.linkedin.com/in/debasish-sahoo-87515a148/
-- Mobile: (+91) 7008295465
+- 📫 How to reach me: ➡️ 📧: debasishsahoo8523@gmail.com | 🤳: (+91) 7008295465
 - ⚡ Fun fact: `It's all 0's and 1's`
