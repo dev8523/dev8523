@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on my problem solving skills.
+- 🔭 I’m currently working on my problem solving and system-design skills.
 - 👯 I’m looking to collaborate mostly on full stack dev projects(open source)
 - 🤔 I’m looking for help with Java, SpringBoot, Microservices, React.js
 - 💬 Ask me about Java, Rest API, SpringBoot, Microservices, React.js, Git
