@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working as a Software Developer.
+- 🔭 I’m currently working as a Software Developer
 - 👯 I’m looking to collaborate mostly on full stack dev projects(open source)
 - 🤔 I’m looking for help with Java, SpringBoot, Microservices, React.js
 - 💬 Ask me about Java, Rest API, SpringBoot, Microservices, React.js, Git
